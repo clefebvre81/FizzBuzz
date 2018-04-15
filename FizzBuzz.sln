@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27520.0
+VisualStudioVersion = 15.0.27604.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz Pt 1", "FizzBuzz Pt 1\FizzBuzz Pt 1.vcxproj", "{5E348148-43EF-4998-8F09-D7917562F0B0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FizzBuzz", "FizzBuzz\FizzBuzz.vcxproj", "{5E348148-43EF-4998-8F09-D7917562F0B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AC6E490F-11BA-4624-90C8-E1EFDB39B7D9}
+		SolutionGuid = {7C8F6766-8C7A-4843-8F3F-1BD28DC48D10}
 	EndGlobalSection
 EndGlobal
